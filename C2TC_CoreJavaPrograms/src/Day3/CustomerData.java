@@ -39,6 +39,8 @@ public class CustomerData {
 		Customer c2=new Customer(name, id, city); //parameterized constructor invoked);
 		System.out.println(c2);
 		
+		
+		
 		sc.close();
 
 	}
