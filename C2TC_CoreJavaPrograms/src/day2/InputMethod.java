@@ -9,13 +9,10 @@ public class InputMethod {
 		String a = ia.nextLine();
 		System.out.println("Hello "+a);
 		
-		
-		
 		Scanner ib = new Scanner(System.in);
 		System.out.println("ENTER YOUR NAME");
 		String b = ib.next();
 		System.out.println("Hello "+b);
-		
 		
 		Scanner ic  = new Scanner(System.in);
 		System.out.println("ENTER YOUR NAME");
