@@ -9,7 +9,7 @@ public class MyClass {
 		System.out.println("-----------Within Static Block---------");
 		srNo=1000;
 	}
-	
+	//d
 	//default constructor
 	MyClass()
 	{

@@ -7,7 +7,7 @@ public class MyClassDemo {
 
 		MyClass o1 = new MyClass();
 		System.out.println(o1);
-
+		//d
 		// static method with class name
 		MyClass.display();
 

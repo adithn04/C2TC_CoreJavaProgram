@@ -9,7 +9,7 @@ public class EmployeeDemo {
 		System.out.println(Employee.companyName);
 		Employee e = new Employee("Shubh", 123);
 		System.out.println(e);
-		
+		//d
 		// Similarly, create the second object of the class and pass the two arguments.
 		e = new Employee("Deep", 321);
 		System.out.println(e);
