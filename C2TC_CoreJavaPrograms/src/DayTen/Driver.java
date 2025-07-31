@@ -10,7 +10,6 @@ public class Driver {
 
 			ArrayOperations.printArray(a);
 
-		
 			for (int i = 0; i < a.length; i++)
 				a[i] = 5 * i;
 

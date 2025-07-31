@@ -10,9 +10,7 @@ public class ArrayObjectsDemo {
 			arr = new Student[5];
 		
 			arr[0] = new Student(1, "Shaglin");
-	
 			arr[1] = new Student(2, "Vishal");
-	
 			arr[2] = new Student(3, "Nidhi");
 			arr[3] = new Student(4, "Lisha");
 			arr[4] = new Student(5, "Saurav");

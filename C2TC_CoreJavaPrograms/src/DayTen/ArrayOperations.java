@@ -8,8 +8,7 @@ public class ArrayOperations {
 				System.out.print(arr[i] + "\t");
 			System.out.println();
 		}
-		
-		
+			
 		public static int getSum(int... n) {
 			int sum = 0;
 			for (int no : n)
@@ -17,7 +16,6 @@ public class ArrayOperations {
 			return sum;
 		}
 		
-	
 		public static int getOddCount(int b[])
 		{
 			int count=0;

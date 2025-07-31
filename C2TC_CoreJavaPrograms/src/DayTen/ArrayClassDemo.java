@@ -2,12 +2,9 @@ package DayTen;
 import java.util.Arrays;
 public class ArrayClassDemo {
 
-
 		public static void main(String[] args) {
 
-	
 			int intArr[] = { 10, 20, 15, 22, 35, 18 , 14 };
-
 		
 			System.out.println("Array is : "+Arrays.toString(intArr));
 			
